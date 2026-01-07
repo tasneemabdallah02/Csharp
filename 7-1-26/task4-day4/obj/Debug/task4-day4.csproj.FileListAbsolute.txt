@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\OYIL\c#\task4-day4\task4-day4\obj\Debug\task4-day4.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OYIL\c#\task4-day4\task4-day4\obj\Debug\task4-day4.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OYIL\c#\task4-day4\task4-day4\bin\Debug\task4-day4.exe.config
+C:\Users\hp\Desktop\OYIL\c#\task4-day4\task4-day4\bin\Debug\task4-day4.exe
+C:\Users\hp\Desktop\OYIL\c#\task4-day4\task4-day4\bin\Debug\task4-day4.pdb
+C:\Users\hp\Desktop\OYIL\c#\task4-day4\task4-day4\obj\Debug\task4-day4.exe
+C:\Users\hp\Desktop\OYIL\c#\task4-day4\task4-day4\obj\Debug\task4-day4.pdb
+C:\Users\hp\Desktop\OYIL\c#\task4-day4\task4-day4\bin\Debug\Employee.txt

@@ -1,0 +1,10 @@
+﻿Adnan\850\IT
+Sara\920\HR
+Omar\780\Finance
+Lina\950\Marketing
+Yousef\1100\Sales
+Huda\880\Support
+Khaled\1020\Development
+Rami\970\IT
+Aya\890\Design
+Noor\930\Accounting
